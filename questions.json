@@ -1,0 +1,83 @@
+[
+    {
+        "question": "Hangi takımın diğerlerinden daha fazla şampiyonluğu vardır ? ",
+        "choice1": "McLaren",
+        "choice2": "Red Bull",
+        "choice3": "Williams",
+        "choice4": "Mercedes",
+        "answer": 3
+    },
+    {
+        "question": "En genç pole kazanan pilot aşağıdakilerden hangisidir ?",
+        "choice1": "Sebastian Vettel",
+        "choice2": "Charles Leclerc",
+        "choice3": "Max Verstappen",
+        "choice4": "Lance Stroll",
+        "answer": 1
+    },
+    {
+        "question": "Arka arkaya en çok dünya şampiyonluğu kazanan pilot aşağıdakilerden hangisidir ?",
+        "choice1": "Juan Manuel Fangio",
+        "choice2": "Michael Schumacher",
+        "choice3": "Lewis Hamilton",
+        "choice4": "Sebastian Vettel",
+        "answer": 2
+    },
+    {
+        "question": "Türkiye Grand Prix'i en çok kazanan pilot aşağıdakilerden hangisidir ?",
+        "choice1": "Fernando Alonso",
+        "choice2": "Lewis Hamilton",
+        "choice3": "Sebastian Vettel",
+        "choice4": "Felipe Massa",
+        "answer": 4
+    },
+    {
+        "question": "Aşağıdaki pilotlardan hangisinin daha fazla podyumu vardır ?",
+        "choice1": "Valtteri Bottas",
+        "choice2": "Daniel Ricciardo ",
+        "choice3": "Charles Leclerc",
+        "choice4": "Kimi Raikkonen",
+        "answer": 4
+    },
+    {
+        "question": "Aşağıdaki pilotlardan hangisinin kariyerinde lider gittiği tur yoktur ?",
+        "choice1": "Antonio Giovinazzi",
+        "choice2": "Carlos Sainz",
+        "choice3": "Lando Norris",
+        "choice4": "Alexander Albon",
+        "answer": 3
+    },
+    {
+        "question": "Aşağıdaki pilotlardan hangisi en uzun süre podyuma çıkmadan yarışmıştır ?",
+        "choice1": "Jolyon Palmer",
+        "choice2": "Stoffel Vandoorne",
+        "choice3": "Paul di Resta",
+        "choice4": "Marcus Ericsson",
+        "answer": 4
+    },
+    {
+        "question": "Aşağıdaki pilotlardan hangisi kariyerinde yarış galibiyeti olmadan diğerlerinden daha fazla puan toplamıştır ?",
+        "choice1": "Nico Hulkenberg",
+        "choice2": "Carlos Sainz",
+        "choice3": "Romain Grosjean",
+        "choice4": "Robert Kubica",
+        "answer": 1
+    },
+    {
+        "question": "Aşağıdaki takımlardan hangisi diğerlerinden daha fazla yarışa çıkmıştır ?",
+        "choice1": "Williams",
+        "choice2": "Ferrari",
+        "choice3": "McLaren",
+        "choice4": "Alfa Romeo",
+        "answer": 2
+    },
+    {
+        "question": "Aşağıdaki pilotlardan hangisi kariyerinde 13 numara ile yarışmıştır ?",
+        "choice1": "Kevin Magnussen ",
+        "choice2": "Pastor Maldonado",
+        "choice3": "Jenson Button",
+        "choice4": "Nico Rosberg",
+        "answer": 2
+    }
+    
+]
